@@ -430,8 +430,8 @@
                 chromeDriverOs: rtdConf.selenium[process.platform].chromeDriverOs,
                 chromeDriverVersion: rtdConf.selenium[process.platform].chromeDriverVersion,
                 chromeDriverSha: rtdConf.selenium[process.platform].chromeDriverSha,
-                seleniumServerVersion: rtdConf.selenium.seleniumServeVersion,
-                seleniumServerSha: rtdConf.selenium.seleniumServeSha
+                seleniumServerVersion: rtdConf.selenium.seleniumServerVersion,
+                seleniumServerSha: rtdConf.selenium.seleniumServerSha
             });
         });
 

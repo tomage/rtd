@@ -63,7 +63,7 @@ module.exports = {
             chromeDriverVersion: '2.0',
             chromeDriverSha: 'd6c78f1bd48ab74d3c66e779ee2a5b70fc2937fb'
         },
-        seleniumServeVersion: '2.32.0',
-        seleniumServeSha: 'c94e6d5392b687d3a141a35f5a489f50f01bef6a'
+        seleniumServerVersion: '2.32.0',
+        seleniumServerSha: 'c94e6d5392b687d3a141a35f5a489f50f01bef6a'
     }
 };
